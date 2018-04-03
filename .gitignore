@@ -2,3 +2,5 @@
 /CnnJapaneseCharacter-master/src/*.png
 /CnnJapaneseCharacter-master/src/*.npz
 /CnnJapaneseCharacter-master/src/*.com
+*.pem
+*.key
