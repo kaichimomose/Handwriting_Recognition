@@ -1,8 +1,8 @@
 /ETL8G
 /ETL1
 /ETL5
-/CnnJapaneseCharacter-master/src/*.png
-/CnnJapaneseCharacter-master/src/*.npz
-/CnnJapaneseCharacter-master/src/*.com
-*.pem
-*.key
+/*.png
+/*.npz
+/*.com
+/*.pem
+/*.key
